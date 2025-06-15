@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   const toggle = document.getElementById('toggle');
   const toggleLabel = document.getElementById('toggle-label');
-
+  
   // メッセージのローカライズ
   toggleLabel.textContent = chrome.i18n.getMessage('toggle_enable');
 
