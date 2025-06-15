@@ -1,0 +1,11 @@
+{
+    "name": {
+      "message": "Youtube广告拦截器 拦截器 拦截器"
+    },
+    "description": {
+      "message": "阻止 Youtube 广告拦截器阻止弹出窗口。"
+    },
+    "toggle_enable": {
+    "message": "启用弹出隐藏"
+    }
+  }

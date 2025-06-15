@@ -1,0 +1,11 @@
+{
+    "name": {
+      "message": "Bloqueur de YouTube bloqueur bloqueur"
+    },
+    "description": {
+      "message": "Bloquer les pop-ups qui bloque les bloqueurs de publicités YouTube."
+    },
+    "toggle_enable": {
+    "message": "Activer la peau pop-up"
+    }
+  }

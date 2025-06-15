@@ -1,0 +1,11 @@
+{
+    "name": {
+      "message": "Youtube-Werbeblocker Blocker Blocker"
+    },
+    "description": {
+      "message": "Blockieren Sie Popups, die Youtube-Werbeblocker blockieren"
+    },
+    "toggle_enable": {
+    "message": "Aktivieren Sie Pop-up-Versteck"
+    }
+  }

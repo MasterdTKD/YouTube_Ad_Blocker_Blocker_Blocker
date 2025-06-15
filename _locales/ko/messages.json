@@ -1,0 +1,11 @@
+{
+    "name": {
+      "message": "Youtube 광고 차단기 차단기 차단기"
+    },
+    "description": {
+      "message": "Youtube의 광고 차단 사용을 차단하는 팝업을 차단합니다."
+    },
+    "toggle_enable": {
+    "message": "팝업 가죽을 활성화하십시오"
+    }
+  }

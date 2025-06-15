@@ -1,0 +1,11 @@
+{
+    "name": {
+      "message": "Youtube広告ブロッカーブロッカーブロッカー"
+    },
+    "description": {
+      "message": "Youtubeの広告ブロッカー使用をブロックするポップアップをブロックします。"
+    },
+      "toggle_enable": {
+    "message": "ポップアップ非表示を有効化"
+    }
+  }

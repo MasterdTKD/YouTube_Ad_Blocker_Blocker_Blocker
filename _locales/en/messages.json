@@ -1,0 +1,11 @@
+{
+    "name": {
+      "message": " AD BlockeYoutuberBlockerBlocker"
+    },
+    "description": {
+      "message": "Block pop-ups that block Youtube ad blockers."
+    },
+    "toggle_enable": {
+    "message": "Enable pop-up hide"
+    }
+  }
